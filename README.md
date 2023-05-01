@@ -1,4 +1,4 @@
-# DS-GA 3008: Advanced Python in Data Science 
+# DS-GA 1019: Advanced Python in Data Science 
 This repository is for collaboration and review of the final project. 
 
 The dataset is from MovieLens: https://grouplens.org/datasets/movielens/latest/ 
